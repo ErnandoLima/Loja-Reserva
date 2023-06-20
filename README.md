@@ -1,2 +1,1 @@
-# loja-reserva
-Atividade Aplicações para internet
+https://ernandolima.github.io/loja-reserva/
